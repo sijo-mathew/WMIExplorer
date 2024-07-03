@@ -20,6 +20,7 @@ using WmiExplorer.Forms;
 using WmiExplorer.Properties;
 using WmiExplorer.Sms;
 using WmiExplorer.Updater;
+using EnumerationOptions = System.Management.EnumerationOptions;
 
 namespace WmiExplorer
 {
