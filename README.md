@@ -7,7 +7,7 @@ As someone who works with Configuration Manager (SCCM), I spend a lot of time in
 
 # Requirements
 
-* Microsoft .NET Framework 4.8
+* Microsoft .NET 8
 * Minimum display resolution: 1024x768
 * Administrator rights to view some WMI objects
 * (Optional) Internet access for automatic update check
