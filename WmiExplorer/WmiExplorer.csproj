@@ -70,14 +70,14 @@
     <Content Include="releases.azure.xml" />
   </ItemGroup>
   <ItemGroup>
-    <PackageReference Include="System.Management" Version="8.0.0" />
-    <PackageReference Include="System.Runtime.Caching" Version="8.0.0" />
-    <PackageReference Include="System.ServiceModel.Primitives" Version="8.0.0" />
-    <PackageReference Include="System.ServiceModel.Http" Version="8.0.0" />
+    <PackageReference Include="System.Management" Version="9.0.9" />
+    <PackageReference Include="System.Runtime.Caching" Version="9.0.9" />
+    <PackageReference Include="System.ServiceModel.Primitives" Version="8.1.2" />
+    <PackageReference Include="System.ServiceModel.Http" Version="8.1.2" />
     <PackageReference Include="System.ServiceModel.Duplex" Version="6.0.0" />
-    <PackageReference Include="System.ServiceModel.NetTcp" Version="8.0.0" />
+    <PackageReference Include="System.ServiceModel.NetTcp" Version="8.1.2" />
     <PackageReference Include="System.ServiceModel.Security" Version="6.0.0" />
-    <PackageReference Include="System.ServiceModel.Federation" Version="8.0.0" />
-    <PackageReference Include="System.ServiceModel.Syndication" Version="8.0.0" />
+    <PackageReference Include="System.ServiceModel.Federation" Version="8.1.2" />
+    <PackageReference Include="System.ServiceModel.Syndication" Version="9.0.9" />
   </ItemGroup>
 </Project>
